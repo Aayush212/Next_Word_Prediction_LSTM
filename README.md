@@ -15,7 +15,7 @@ This repository contains the code for a **Next Word Prediction** application bui
 
 ## Live Demo
 Try the app live on Streamlit:
-[Next Word Prediction App](---------------------------------------)
+[Next Word Prediction App](https://nextwordpredictionlstm-cz2bkqhvbjqrhedz86ouos.streamlit.app/)
 
 ## Installation
 To run the app locally, follow these steps:
