@@ -22,8 +22,8 @@ To run the app locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Aayush212/next-word-prediction-app.git
-   cd next-word-prediction-app
+   git clone https://github.com/Aayush212/Next_Word_Prediction_LSTM.git
+   cd Next_Word_Prediction_LSTM
    ```
 
 2. Install the required dependencies:
