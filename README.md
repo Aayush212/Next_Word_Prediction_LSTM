@@ -22,7 +22,7 @@ To run the app locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/next-word-prediction-app.git
+   git clone https://github.com/Aayush212/next-word-prediction-app.git
    cd next-word-prediction-app
    ```
 
